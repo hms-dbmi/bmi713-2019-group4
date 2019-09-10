@@ -11,3 +11,4 @@
 
 - Allow everyone to safely explore and develop open source codes without disrupting the original working version.
 - Keep track of each member's contribution to the project.
+- Allows scientists to share the code with the research community.
