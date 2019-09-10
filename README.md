@@ -3,3 +3,4 @@
 ## Team Member
 
 - @s-coli
+- @alicewang19
