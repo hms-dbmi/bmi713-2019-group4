@@ -10,4 +10,4 @@
 ## GitHub for Open Science
 
 - 
-- 
+- Keep track of each member's contribution to the project
