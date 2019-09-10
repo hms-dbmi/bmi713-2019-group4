@@ -9,5 +9,5 @@
 
 ## GitHub for Open Science
 
-- 
-- Keep track of each member's contribution to the project
+- Allow everyone to safely explore and develop open source codes without disrupting the original working versin.
+- Keep track of each member's contribution to the project.
