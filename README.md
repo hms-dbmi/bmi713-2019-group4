@@ -4,6 +4,7 @@
 
 - @s-coli
 - @alicewang19
+- @Bearneedsmoreorange
 
 
 ## GitHub for Open Science
